@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Rodrigo Pintos Alvariza — Full-Stack Developer · Lecturer at Universidad ORT Uruguay"/>
+    <img src="./header.svg?v=2" width="100%" alt="Rodrigo Pintos Alvariza — Full-Stack Developer · Lecturer at Universidad ORT Uruguay"/>
 </p>
 
 <p align="center">
