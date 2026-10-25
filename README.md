@@ -1,10 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F3864&height=170&section=header&text=Rodrigo%20Pintos%20Alvariza&fontSize=42&fontColor=E6EDF3&fontAlignY=42&desc=Full-Stack%20Developer&descSize=18&descAlignY=68&animation=fadeIn" alt="header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Node.js+%C2%B7+Express+%C2%B7+React+%C2%B7+MongoDB;Clean+code%2C+clear+responsibilities;Open+to+Full-Stack+Developer+roles" alt="typing"/>
+  <img src="./header.svg" width="100%" alt="Rodrigo Pintos Alvariza — Full-Stack Developer · Lecturer at Universidad ORT Uruguay"/>
 </p>
 
 <p align="center">
@@ -21,7 +17,7 @@
   studying   : IT Analyst @ Universidad ORT Uruguay (5th semester)
   teaching   : Programming 2 Lecturer @ Universidad ORT Uruguay
   role       : Cybersecurity Analyst @ Ministry of the Interior (Uruguay)
-  background : JD (Law) · Notary Public — Universidad de la República
+  background : Lawyer · Notary Public — Universidad de la República
   focus      : full-stack development · REST APIs · AI integration
   goal       : joining a team as a Full-Stack Developer
 ```
