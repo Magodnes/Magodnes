@@ -1,19 +1,16 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123E6B,100:00D9FF&height=220&section=header&text=Rodrigo%20Pintos&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Educator&descSize=18&descAlignY=56&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F3864&height=170&section=header&text=Rodrigo%20Pintos%20Alvariza&fontSize=42&fontColor=E6EDF3&fontAlignY=42&desc=Full-Stack%20Developer&descSize=18&descAlignY=68&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=640&lines=Building+full-stack+web+apps;Node.js+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+MongoDB;Clean+code%2C+clear+responsibilities;Open+to+Full-Stack+Developer+roles" alt="typing"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Node.js+%C2%B7+Express+%C2%B7+React+%C2%B7+MongoDB;Clean+code%2C+clear+responsibilities;Open+to+Full-Stack+Developer+roles" alt="typing"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-pintos-alvariza-987142202"><img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
-  <a href="mailto:ropin1697@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
-  <img src="https://img.shields.io/badge/Montevideo,_UY-0B1F3A?style=for-the-badge&logo=googlemaps&logoColor=00D9FF"/>
-  <img src="https://komarev.com/ghpvc/?username=Magodnes&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+  <a href="https://www.linkedin.com/in/rodrigo-pintos-alvariza-987142202"><img src="https://img.shields.io/badge/LinkedIn-1F3864?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ropin1697@gmail.com"><img src="https://img.shields.io/badge/Email-1F3864?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Montevideo,_UY-1F3864?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
@@ -21,8 +18,6 @@
 ## `> whoami`
 
 ```bash
-rodrigo@montevideo:~$ cat about.txt
-
   studying   : IT Analyst @ Universidad ORT Uruguay (5th semester)
   teaching   : Programming 2 Lecturer @ Universidad ORT Uruguay
   role       : Cybersecurity Analyst @ Ministry of the Interior (Uruguay)
@@ -58,33 +53,54 @@ I build full-stack web applications, from the REST API and database to the React
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <b>Frontend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark"/>
-</p>
+<h4 align="center">Frontend</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48"/><br/><sub>HTML5</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48"/><br/><sub>CSS3</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48"/><br/><sub>React</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48"/><br/><sub>Bootstrap</sub></td>
+  </tr>
+</table>
+
+<h4 align="center">Backend</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48"/><br/><sub>Express</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48"/><br/><sub>Java</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48"/><br/><sub>Spring Boot</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48"/><br/><sub>C#</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48"/><br/><sub>.NET</sub></td>
+  </tr>
+</table>
+
+<h4 align="center">Databases & Cloud</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48"/><br/><sub>MongoDB</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48"/><br/><sub>Vercel</sub></td>
+  </tr>
+</table>
+
+<h4 align="center">Tools</h4>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/><br/><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48"/><br/><sub>Postman</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48"/><br/><sub>VS Code</sub></td>
+  </tr>
+</table>
 
 <p align="center">
-  <b>Backend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,cs,dotnet&theme=dark"/>
-</p>
-
-<p align="center">
-  <b>Databases & Cloud</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel&theme=dark"/>
-</p>
-
-<p align="center">
-  <b>Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-0B1F3A?style=flat-square&logo=jsonwebtokens&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/OWASP-0B1F3A?style=flat-square&logo=owasp&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-0B1F3A?style=flat-square&logo=googlegemini&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Chart.js-0B1F3A?style=flat-square&logo=chartdotjs&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/UML-0B1F3A?style=flat-square&logo=diagramsdotnet&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Design_Patterns-0B1F3A?style=flat-square&logo=refactoringguru&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/JWT-1F3864?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-1F3864?style=flat-square&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-1F3864?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UML-1F3864?style=flat-square&logo=diagramsdotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-1F3864?style=flat-square&logo=refactoringguru&logoColor=white"/>
 </p>
 
 ---
@@ -95,35 +111,9 @@ I build full-stack web applications, from the REST API and database to the React
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| 🍲 **RecetasApp** · [Frontend](https://github.com/Alpatuta/FRONT_OBLIGATORIO_FULLSTACK) · [API](https://github.com/Alpatuta/OBLIGATORIO_FULLSTACK) | Full-stack recipe platform with JWT authentication, usage dashboards, and AI-generated recipes. Deployed on Vercel following OWASP practices. | `React 19` `Node` `Express` `MongoDB` `JWT` `Chart.js` `Gemini` `Vercel` |
+| 🍲 **RecetasApp** · [Frontend](https://github.com/Alpatuta/FRONT_OBLIGATORIO_FULLSTACK) · [API](https://github.com/Alpatuta/OBLIGATORIO_FULLSTACK) | Full-stack recipe platform with JWT authentication, usage dashboards, and AI-generated recipes. Deployed on Vercel following OWASP practices. | `React 19` `Node` `Express` `MongoDB` `JWT` `Gemini` `Vercel` |
 | 🐾 **[Huellas – Veterinary Web Prototype](https://github.com/codewitheduardo/veterinaria-web)** | Final project for the Software Engineering Workshop: a web prototype for the "Huellas" veterinary clinic. | `JavaScript` |
 | 🏇 **[Horse Racing Betting System](https://github.com/Alpatuta/DA-2026Marzo-M4B-346421-274712)** | Application design and development course project. The domain model applies State, Strategy, and Facade patterns and was reviewed against SRP and SSOT. | `Java` `OOP` `UML` `Design Patterns` |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Magodnes&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=00D9FF&icon_color=00D9FF&text_color=E6F1FF&rank_icon=github"/>
-</p>
-
-<p align="center">
-  <b>Top Languages</b><br/><br/>
-  <img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=for-the-badge&logo=javascript&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Java-0B1F3A?style=for-the-badge&logo=openjdk&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/C%23-0B1F3A?style=for-the-badge&logo=dotnet&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/SQL-0B1F3A?style=for-the-badge&logo=databricks&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/HTML5-0B1F3A?style=for-the-badge&logo=html5&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/CSS3-0B1F3A?style=for-the-badge&logo=css&logoColor=00D9FF"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Magodnes&hide_border=true&background=0B1F3A&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6F1FF&currStreakNum=E6F1FF&sideNums=E6F1FF&dates=8BA3C7"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Magodnes&bg_color=0B1F3A&color=E6F1FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true"/>
-</p>
 
 ---
 
@@ -141,11 +131,11 @@ I'm looking to join a development team as a **Full-Stack Developer**, where I ca
 ## 📫 Where to find me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-pintos-alvariza-987142202"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
-  <a href="mailto:ropin1697@gmail.com"><img src="https://img.shields.io/badge/ropin1697@gmail.com-0B1F3A?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
+  <a href="https://www.linkedin.com/in/rodrigo-pintos-alvariza-987142202"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1F3864?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ropin1697@gmail.com"><img src="https://img.shields.io/badge/ropin1697@gmail.com-1F3864?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123E6B,100:0B1F3A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:0D1117&height=6&section=footer"/>
 </p>
